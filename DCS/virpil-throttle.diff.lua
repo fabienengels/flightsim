@@ -159,7 +159,7 @@ local diff = {
 		["d3002pnilunilcd44vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN52",
+					["key"] = "JOY_BTN58",
 				},
 			},
 			["name"] = "INS Switch - CCW",
@@ -167,7 +167,7 @@ local diff = {
 		["d3002pnilunilcd44vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN49",
+					["key"] = "JOY_BTN59",
 				},
 			},
 			["name"] = "INS Switch - CW",
@@ -391,7 +391,7 @@ local diff = {
 		["d71pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN59",
+					["key"] = "JOY_BTN49",
 				},
 			},
 			["name"] = "Canopy - OPEN/CLOSE",
@@ -427,14 +427,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
-		},
-		["dnilp3004unilcd10vdnilvp0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN58",
-				},
-			},
-			["name"] = "OXY Flow Knob - CW/Increase/ON",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["added"] = {
