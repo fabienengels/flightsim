@@ -415,7 +415,7 @@ local diff = {
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
+					["key"] = "JOY_BTN12",
 				},
 			},
 			["name"] = "View Left slow",
@@ -428,7 +428,7 @@ local diff = {
 		["dnilp33u214cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN10",
 				},
 			},
 			["name"] = "View Right slow",
@@ -441,7 +441,7 @@ local diff = {
 		["dnilp34u214cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN11",
 				},
 			},
 			["name"] = "View Up slow",
@@ -454,7 +454,7 @@ local diff = {
 		["dnilp35u214cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN17",
+					["key"] = "JOY_BTN9",
 				},
 			},
 			["name"] = "View Down slow",
@@ -467,7 +467,7 @@ local diff = {
 		["dnilp36unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "View Center",
