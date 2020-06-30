@@ -156,10 +156,18 @@ local diff = {
 			},
 			["name"] = "T/O TRIM Button",
 		},
-		["d3002pnilunilcd44vd1vpnilvunil"] = {
+		["d3002pnilunilcd44vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN52",
+				},
+			},
+			["name"] = "INS Switch - CCW",
+		},
+		["d3002pnilunilcd44vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
 				},
 			},
 			["name"] = "INS Switch - CW",
