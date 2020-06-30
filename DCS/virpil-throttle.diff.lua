@@ -127,18 +127,26 @@ local diff = {
 		["d3001pnilu3001cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN48",
+					["key"] = "JOY_BTN41",
 				},
 			},
 			["name"] = "APU Control Switch - ON/OFF",
 		},
-		["d3001pnilu3001cd3vd1vpnilvu0"] = {
+		["d3001pnilunilcd3vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN49",
+					["key"] = "JOY_BTN38",
 				},
 			},
-			["name"] = "Battery Switch - ON/OFF",
+			["name"] = "Battery Switch - OFF",
+		},
+		["d3001pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "Battery Switch - ON",
 		},
 		["d3002pnilu3002cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -147,6 +155,14 @@ local diff = {
 				},
 			},
 			["name"] = "T/O TRIM Button",
+		},
+		["d3002pnilunilcd44vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN52",
+				},
+			},
+			["name"] = "INS Switch - CW",
 		},
 		["d3003pnilu3003cd2vd1vpnilvu0"] = {
 			["added"] = {
