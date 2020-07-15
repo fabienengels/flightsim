@@ -123,13 +123,13 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd23vd1vpnilvu0"] = {
+		["d177pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN18",
 				},
 			},
-			["name"] = "Master Mode Button - A/A",
+			["name"] = "Zoom normal",
 		},
 		["d3002pnilu3002cd13vd1vpnilvu0"] = {
 			["added"] = {
@@ -138,14 +138,6 @@ local diff = {
 				},
 			},
 			["name"] = "Gun Trigger - SECOND DETENT (Press to shoot)",
-		},
-		["d3002pnilu3002cd23vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Master Mode Button - A/G",
 		},
 		["d3003pnilu3003cd13vd1vpnilvu0"] = {
 			["added"] = {
@@ -226,14 +218,6 @@ local diff = {
 				},
 			},
 			["name"] = "Undesignate/Nose Wheel Steer Switch",
-		},
-		["d3014pnilunilcd23vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "Master Arm Switch - ARM/SAFE",
 		},
 		["d3018pnilu3018cd13vd1vpnilvu0"] = {
 			["added"] = {
@@ -354,6 +338,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
+		},
+		["dnilp39u289cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Zoom in slow",
+		},
+		["dnilp40u290cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Zoom out slow",
 		},
 	},
 }

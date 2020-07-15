@@ -68,24 +68,6 @@ local diff = {
 			},
 			["name"] = "Thrust Right",
 		},
-		["a2012cdnil"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0.15,
-						},
-						["deadzone"] = 0.02,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Zoom View",
-		},
 		["a3043cd13"] = {
 			["added"] = {
 				[1] = {
@@ -127,15 +109,31 @@ local diff = {
 		["d3001pnilu3001cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN41",
+					["key"] = "JOY_BTN48",
 				},
 			},
 			["name"] = "APU Control Switch - ON/OFF",
 		},
+		["d3001pnilu3001cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN60",
+				},
+			},
+			["name"] = "Master Mode Button - A/A",
+		},
+		["d3001pnilu3001cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN54",
+				},
+			},
+			["name"] = "Canopy Control Switch - OPEN",
+		},
 		["d3001pnilunilcd3vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN38",
+					["key"] = "JOY_BTN34",
 				},
 			},
 			["name"] = "Battery Switch - OFF",
@@ -143,23 +141,31 @@ local diff = {
 		["d3001pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN39",
+					["key"] = "JOY_BTN35",
 				},
 			},
 			["name"] = "Battery Switch - ON",
 		},
-		["d3002pnilu3002cd2vd1vpnilvu0"] = {
+		["d3002pnilu3002cd23vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN51",
+					["key"] = "JOY_BTN63",
 				},
 			},
-			["name"] = "T/O TRIM Button",
+			["name"] = "Master Mode Button - A/G",
+		},
+		["d3002pnilu3002cd7vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN55",
+				},
+			},
+			["name"] = "Canopy Control Switch - CLOSE",
 		},
 		["d3002pnilunilcd44vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN58",
+					["key"] = "JOY_BTN52",
 				},
 			},
 			["name"] = "INS Switch - CCW",
@@ -167,7 +173,7 @@ local diff = {
 		["d3002pnilunilcd44vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN59",
+					["key"] = "JOY_BTN53",
 				},
 			},
 			["name"] = "INS Switch - CW",
@@ -175,15 +181,31 @@ local diff = {
 		["d3003pnilu3003cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN53",
+					["key"] = "JOY_BTN51",
 				},
 			},
 			["name"] = "FCS RESET Button",
 		},
+		["d3003pnilunilcd23vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+				},
+			},
+			["name"] = "Master Arm Switch - SAFE",
+		},
+		["d3003pnilunilcd23vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN41",
+				},
+			},
+			["name"] = "Master Arm Switch - ARM",
+		},
 		["d3003pnilunilcd42vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN68",
+					["key"] = "JOY_BTN49",
 				},
 			},
 			["name"] = "RADAR Switch - CCW",
@@ -191,7 +213,7 @@ local diff = {
 		["d3003pnilunilcd42vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN69",
+					["key"] = "JOY_BTN50",
 				},
 			},
 			["name"] = "RADAR Switch - CW",
@@ -239,15 +261,31 @@ local diff = {
 		["d3008pnilu3008cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN50",
+					["key"] = "JOY_BTN4",
 				},
 			},
 			["name"] = "MASTER CAUTION Reset Button",
 		},
+		["d3008pnilunilcd34vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "Altitude Switch - RDR",
+		},
+		["d3008pnilunilcd34vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "Altitude Switch - BARO",
+		},
 		["d3015pnilu3015cd12vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN54",
+					["key"] = "JOY_BTN56",
 				},
 			},
 			["name"] = "Engine Crank Switch - LEFT",
@@ -255,7 +293,7 @@ local diff = {
 		["d3016pnilu3016cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN55",
+					["key"] = "JOY_BTN58",
 				},
 			},
 			["name"] = "Engine Crank Switch - RIGHT",
@@ -284,6 +322,38 @@ local diff = {
 			},
 			["name"] = "Radar Elevation Control - Down",
 		},
+		["d3027pnilu3027cd13vd0.2vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "COMM Switch - COMM 1",
+		},
+		["d3028pnilu3028cd13vd0.4vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "COMM Switch - COMM 2",
+		},
+		["d3029pnilu3029cd13vd0.6vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "COMM Switch - MIDS A",
+		},
+		["d3030pnilu3030cd13vd0.8vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "COMM Switch - MIDS B",
+		},
 		["d3031pnilu3031cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -295,7 +365,7 @@ local diff = {
 		["d3032pnilu3032cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
+					["key"] = "JOY_BTN19",
 				},
 			},
 			["name"] = "Dispense Switch - Forward(CHAFF)/Center(OFF)",
@@ -303,7 +373,7 @@ local diff = {
 		["d3033pnilu3033cd13vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN24",
+					["key"] = "JOY_BTN17",
 				},
 			},
 			["name"] = "Dispense Switch - Aft(FLARE)/Center(OFF)",
@@ -311,7 +381,7 @@ local diff = {
 		["d3034pnilu3034cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN5",
 				},
 			},
 			["name"] = "RAID/FLIR FOV Select Button",
@@ -324,6 +394,14 @@ local diff = {
 			},
 			["name"] = "Speed Brake Switch - EXTEND",
 		},
+		["d3035pnilunilcd13vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Speed Brake Switch - OFF",
+		},
 		["d3035pnilunilcd13vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -335,7 +413,7 @@ local diff = {
 		["d3037pnilu3037cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "ATC Engage/Disengage Switch",
@@ -351,7 +429,7 @@ local diff = {
 		["d313pnilu311cdnilvd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN56",
+					["key"] = "JOY_BTN57",
 				},
 			},
 			["name"] = "Throttle (Left) - OFF/IDLE",
@@ -367,7 +445,7 @@ local diff = {
 		["d314pnilu312cdnilvd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN57",
+					["key"] = "JOY_BTN59",
 				},
 			},
 			["name"] = "Throttle (Right) - OFF/IDLE",
@@ -375,7 +453,7 @@ local diff = {
 		["d430pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN35",
+					["key"] = "JOY_BTN37",
 				},
 			},
 			["name"] = "Landing Gear Control Handle - UP",
@@ -383,18 +461,10 @@ local diff = {
 		["d431pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN34",
+					["key"] = "JOY_BTN36",
 				},
 			},
 			["name"] = "Landing Gear Control Handle - DOWN",
-		},
-		["d71pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN49",
-				},
-			},
-			["name"] = "Canopy - OPEN/CLOSE",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -479,14 +549,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-		},
-		["dnilp36unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "View Center",
 		},
 	},
 }
